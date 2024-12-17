@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Simpler Kampfauswerter 2
+// @name         Simpler Kampfauswerter
 // @namespace    http://tampermonkey.net/
 // @downloadURL  https://github.com/Pandastan/Evergore/raw/refs/heads/master/scripts/EG_Kampfauswerter_simple.user.js
 // @updateURL    https://github.com/Pandastan/Evergore/raw/refs/heads/master/scripts/EG_Kampfauswerter_simple.user.js
-// @version      1.0
+// @version      1.1
 // @description  Berechnet Werte aus Kampfereignisse logs.
 // @author       Eros
 // @match        *://evergore.de/*page=battle_report*
