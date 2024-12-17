@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Damage Analyzer for Kampfereignisse
+// @name         Simpler Kampfauswerter
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  Analyzes damage dealt and received from Kampfereignisse logs.
-// @author       Your Name
+// @description  Berechnet Werte aus Kampfereignisse logs.
+// @author       Eros
 // @match        *://evergore.de/*page=battle_report*
 // @grant        none
 // ==/UserScript==
