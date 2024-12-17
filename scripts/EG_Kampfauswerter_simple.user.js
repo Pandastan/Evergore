@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Simpler Kampfauswerter
+// @name         Simpler Kampfauswerter 2
 // @namespace    http://tampermonkey.net/
 // @downloadURL  https://github.com/Pandastan/Evergore/blob/master/scripts/EG_Kampfauswerter_simple.user.js
 // @updateURL    https://github.com/Pandastan/Evergore/blob/master/scripts/EG_Kampfauswerter_simple.user.js
